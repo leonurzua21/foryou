@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+p{
+    color: #c07891;
+    font-size: 40pt;
+    padding: auto;
+    font-family:cursive;
+}
+#noBtn{
+    position: absolute;
+    top: 65%;
+    left: 87%;
+    color:#fc7984;
+    font-size: 40pt;
+    font-family:cursive;
+    transform:translate(-100%,-100%);
+}
+#yesBtn{
+    position: absolute;
+    top: 65%;
+    left: 19%;
+    color:#fc7984;
+    font-size: 40pt;
+    font-family:cursive;
+    transform:translate(-100%,-100%);
+}
